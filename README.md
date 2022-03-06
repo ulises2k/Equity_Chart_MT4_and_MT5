@@ -1,0 +1,1 @@
+# Equity-Chart---MT4-y-MT5

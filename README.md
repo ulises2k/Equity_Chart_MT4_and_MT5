@@ -1,4 +1,4 @@
-# Equity-Chart---MT4-y-MT5
+# Equity-Chart MT4 and MT5
 Modernization of the popular Equity indicator. The author of the original version: Igor Korepin.
 The necessity of the modernization is that the original indicator does not always work correctly with some instruments. For
 example, some brokers use the tickers with suffixes, prefixes. Also some CFD contracts and futures were considered incorrectly. This
